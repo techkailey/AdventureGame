@@ -1,4 +1,4 @@
-// Hw4 - Adventure Game
+// Adventure Game
 // Kailey Bergeron 
 // November 8th, 2021
 
